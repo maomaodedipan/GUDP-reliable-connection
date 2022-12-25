@@ -1,8 +1,12 @@
 # GUDP-reliable-connection
 IK2215 task , a reliable connection based on UDP
 
-GUDPpacket.java 
+- `README.md` Basic intro
 
-GUDPsocket.java
+- `GUDPSocket.java` Main work in this part
 
-VSFTP.java
+- `GUDPPocket.java` A file extension given
+
+- `VSFtp.java` A file transmission working on GUDP
+
+- `1123.txt` A test file
